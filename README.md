@@ -1,16 +1,56 @@
-# React + Vite
+# Affiliate Script Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi web untuk menghasilkan script promosi affiliate secara otomatis. Dibangun dengan React dan Tailwind CSS, aplikasi ini membantu affiliate marketer membuat konten promosi yang menarik untuk produk mereka.
 
-Currently, two official plugins are available:
+## 🚀 Fitur Utama
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Generate Script Otomatis**: Buat script promosi berdasarkan nama produk, URL, dan manfaat produk.
+- **Dark Mode**: Toggle antara mode terang dan gelap untuk kenyamanan mata.
+- **Copy ke Clipboard**: Salin script dengan mudah ke clipboard.
+- **Export ke PDF**: Ekspor semua script ke file PDF untuk dicetak atau dibagikan.
+- **Responsive Design**: Antarmuka yang responsif dan mudah digunakan di desktop maupun mobile.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend**: React 19
+- **Build Tool**: Vite (dengan Rolldown)
+- **Styling**: Tailwind CSS v4
+- **Icons**: Lucide React
+- **Linting**: ESLint
 
-## Expanding the ESLint configuration
+## 📦 Instalasi dan Menjalankan
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/RafaXzaviero/my-affiliate-app.git
+   cd my-affiliate-app
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Jalankan development server**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Buka browser** dan akses `http://localhost:5173` (atau port yang ditampilkan).
+
+5. **Build untuk production**:
+   ```bash
+   npm run build
+   ```
+
+## 📸 Screenshot
+
+*(Tambahkan screenshot aplikasi di sini)*
+
+## 🤝 Kontribusi
+
+Kontribusi sangat diterima! Silakan buat issue atau pull request jika ada saran perbaikan.
+
+## 📄 Lisensi
+
+Proyek ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
