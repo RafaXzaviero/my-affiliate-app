@@ -45,7 +45,8 @@ Aplikasi web untuk menghasilkan script promosi affiliate secara otomatis. Dibang
 
 ## 📸 Screenshot
 
-*(Tambahkan screenshot aplikasi di sini)*
+<img width="1440" height="900" alt="Screenshot 2026-02-04 at 11 09 45" src="https://github.com/user-attachments/assets/28b08ad8-6694-4532-b2bf-8abd47a7b61d" />
+
 
 ## 🤝 Kontribusi
 
